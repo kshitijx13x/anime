@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/anime/static/css/main.c0c07ca4.chunk.css",
+    "main.js": "/anime/static/js/main.da9ce071.chunk.js",
+    "main.js.map": "/anime/static/js/main.da9ce071.chunk.js.map",
+    "runtime-main.js": "/anime/static/js/runtime-main.10db3cca.js",
+    "runtime-main.js.map": "/anime/static/js/runtime-main.10db3cca.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/anime/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a23185ee.chunk.js": "/anime/static/js/2.a23185ee.chunk.js",
+    "static/js/2.a23185ee.chunk.js.map": "/anime/static/js/2.a23185ee.chunk.js.map",
+    "static/js/3.a66647be.chunk.js": "/anime/static/js/3.a66647be.chunk.js",
+    "static/js/3.a66647be.chunk.js.map": "/anime/static/js/3.a66647be.chunk.js.map",
+    "index.html": "/anime/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/anime/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.c0c07ca4.chunk.css.map": "/anime/static/css/main.c0c07ca4.chunk.css.map",
+    "static/js/2.a23185ee.chunk.js.LICENSE.txt": "/anime/static/js/2.a23185ee.chunk.js.LICENSE.txt",
+    "static/media/aot.366cd322.jpg": "/anime/static/media/aot.366cd322.jpg",
+    "static/media/boruto.543e9a20.jpg": "/anime/static/media/boruto.543e9a20.jpg",
+    "static/media/borutomovie.8eab1bc1.jpg": "/anime/static/media/borutomovie.8eab1bc1.jpg",
+    "static/media/brol2.c6060e56.jpg": "/anime/static/media/brol2.c6060e56.jpg",
+    "static/media/fullmetal.91d8e3aa.jpg": "/anime/static/media/fullmetal.91d8e3aa.jpg",
+    "static/media/gogeta2.8aa70cde.png": "/anime/static/media/gogeta2.8aa70cde.png",
+    "static/media/kakashi.852ed0b2.png": "/anime/static/media/kakashi.852ed0b2.png",
+    "static/media/logo.6ce24c58.svg": "/anime/static/media/logo.6ce24c58.svg",
+    "static/media/myhero.4b3e6c52.jpg": "/anime/static/media/myhero.4b3e6c52.jpg",
+    "static/media/naruto.45c4ba84.jpg": "/anime/static/media/naruto.45c4ba84.jpg",
+    "static/media/onepunch.ac70b56e.jpg": "/anime/static/media/onepunch.ac70b56e.jpg",
+    "static/media/super.f56d74d9.jpg": "/anime/static/media/super.f56d74d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10db3cca.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a23185ee.chunk.js",
+    "static/css/main.c0c07ca4.chunk.css",
+    "static/js/main.da9ce071.chunk.js"
+  ]
+}
